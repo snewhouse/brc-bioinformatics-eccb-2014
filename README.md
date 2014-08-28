@@ -29,13 +29,13 @@ NIHR BRC-MH Bioinformatics Core: ECCB 2014
 ****************
 
 # The Brain and Behaviour Genetic Resource Exchange – BB-GRE
-## Mr Abhishek Dixt
+## Mr Abhishek Dixit
 
 Studies of copy number variation (genomic imbalance) are providing insight into both complex and Mendelian genetic disorders. Array comparative genomic hybridization (array CGH), a tool for detecting copy number variants at a resolution previously unattainable in clinical diagnostics, is increasingly used as a first-line test at clinical genetics laboratories. Many copy number variants are of unknown significance; correlation and comparison with other patients will therefore be essential for interpretation. We present a resource for clinicians and researchers to identify specific copy number variants and associated phenotypes in patients from a single catchment area, tested using array CGH at the SE Thames Regional Genetics Centre, London. User-friendly searching is available, with links to external resources, providing a powerful tool for the elucidation of gene function. We hope to promote research by facilitating interactions between researchers and patients. The BBGRE (Brain and Body Genetic Resource Exchange) resource can be accessed at the following website: http://bbgre.org DATABASE URL: http://bbgre.org.  
 
 ****************
 # CohortExplorer: A generic application programming interface (API) for entity attribute value database schemas
-## Mr Abhishek Dixt
+## Mr Abhishek Dixit
 Most electronic data capture tools developed to collect and store clinical data from participants recruited into studies are based on generic Entity-Attribute-Value (EAV) database schemas which enable rapid and flexible deployment in a range of study designs. The drawback to such schemas is that they are cumbersome to query with structured query language (SQL). The problem increases when researchers involved in multiple studies use multiple electronic data capture tools each with variation on the EAV schema. We have developed a tool, CohortExplorer, which once configured for a EAV system will ‘plug-n-play’ with EAV schemas, enabling the easy construction of complex queries through an abstracted interface. To demonstrate the utility of the CohortExplorer system, we show how it can be used with the popular EAV based frameworks; Opal (OBiBa) and REDCap. The application is available under a GPL-3+ license at the following URL: https://www.metacpan.org/pod/CohortExplorer. The application source code is available on GitHub at the following URL: https://www.github.com/abhishekdxt/CohortExplorer and the users are encouraged to suggest new features and contribute to development of APIs for new EAV systems.  
 
 ****************
