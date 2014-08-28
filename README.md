@@ -13,6 +13,20 @@ Participation at ECCB'14 will be the prime opportunity to keep pace with cutting
 
 NIHR BRC-MH Bioinformatics Core: ECCB 2014
 ==============================================
+## Abstracts
+
+(The Brain and Behaviour Genetic Resource Exchange – BB-GRE)[https://github.com/snewhouse/brc-bioinformatics-eccb-2014/blob/master/README.md#the-brain-and-behaviour-genetic-resource-exchange--bb-gre]  
+(CohortExplorer)[https://github.com/snewhouse/brc-bioinformatics-eccb-2014/blob/master/README.md#cohortexplorer-a-generic-application-programming-interface-api-for-entity-attribute-value-database-schemas]  
+(NGSeasy)[https://github.com/snewhouse/brc-bioinformatics-eccb-2014/blob/master/README.md#ngseasy-easy-analysis-of-next-generation-sequencing-a-flexible-easy-to-use-automated-ngs-pipeline-for-research-and-clinical-laboratories]  
+(Exploiting the Quantified Self for clinical care)[https://github.com/snewhouse/brc-bioinformatics-eccb-2014/blob/master/README.md#exploiting-the-quantified-self-for-clinical-care-a-framework-for-integrating-mobile-and-sensor-data-into-the-electronic-health-record]  
+(Cross-disorder assessment of a diagnostic Alzheimer’s disease gene expression signature)[https://github.com/snewhouse/brc-bioinformatics-eccb-2014/blob/master/README.md#cross-disorder-assessment-of-a-diagnostic-alzheimers-disease-gene-expression-signature]  
+(Identification and Replication of Cis and Trans Effect Protein Quantitative Trait Loci in Ageing Adults)[https://github.com/snewhouse/brc-bioinformatics-eccb-2014/blob/master/README.md#identification-and-replication-of-cis-and-trans-effect-protein-quantitative-trait-loci-in-ageing-adults]  
+(Circulating proteomic signatures of chronological age)[https://github.com/snewhouse/brc-bioinformatics-eccb-2014/blob/master/README.md#circulating-proteomic-signatures-of-chronological-age]  
+(The use of Polygenic Risk Scores for predicting rate of cognitive decline in Alzheimer’s disease)[https://github.com/snewhouse/brc-bioinformatics-eccb-2014/blob/master/README.md#the-use-of-polygenic-risk-scores-for-predicting-rate-of-cognitive-decline-in-alzheimers-disease]  
+(Predicting tumour grade across multiple adenocarcinomas using exome sequence data.)[https://github.com/snewhouse/brc-bioinformatics-eccb-2014/blob/master/README.md#predicting-tumour-grade-across-multiple-adenocarcinomas-using-exome-sequence-data]  
+(Blood based gene expression markers of Alzheimer’s Disease diagnosis: a pathway based approach)[https://github.com/snewhouse/brc-bioinformatics-eccb-2014/blob/master/README.md#blood-based-gene-expression-markers-of-alzheimers-disease-diagnosis-a-pathway-based-approach]  
+
+****************
 
 # The Brain and Behaviour Genetic Resource Exchange – BB-GRE
 ## Mr Abhishek Dixt
