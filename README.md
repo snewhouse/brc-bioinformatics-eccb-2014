@@ -1,4 +1,4 @@
-brc-bioinformatics-eccb-2104
+brc-bioinformatics-eccb-2014
 ============================
 
 Abstracts presented at ECCB 2014
